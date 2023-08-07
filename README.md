@@ -1,6 +1,4 @@
-# ERA-SESSION12 PyTorch Lightning &amp; Gradio
-
-HF Link: https://huggingface.co/spaces/RaviNaik/ERA-Session12
+# ERA-SESSION12 PyTorch Lightning &amp; Gradi0
 
 ### Model Summary
 ```python
